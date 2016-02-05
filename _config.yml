@@ -1,28 +1,40 @@
-name: toming
 favicon: null
-layout_spectrum: 0.6457868404686451
-typography_spectrum: 0.6287005390040576
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: toming
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3b3335'
-    - '#dfd4ca'
-    - '#bcbac0'
-    - '#655d61'
-    - '#837977'
-  brandStrength: 0.25
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.509667
+  brandStrength: 0.2883995
+  lightness: 1
+  brandColors:
+    - '#B5A490'
+    - '#78644C'
+    - '#160C03'
+    - '#4B2815'
+    - '#FFFFFA'
+  rhythmicContrast: 0.5
+typography_spectrum: 0.4559613
+layout_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
