@@ -1,28 +1,40 @@
-name: toming
-favicon: null
-layout_spectrum: 0.6457868404686451
-typography_spectrum: 0.6287005390040576
+title: 'Thom Ming Chen '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.509667
+  brandStrength: 0.3034371
+  lightness: 1
+  brandColors:
+    - '#282727'
+    - '#5D5452'
+    - '#B3A5A3'
+    - '#D8CDC7'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: toming
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.28043337375856936
-  lightness: 0.4000689876265824
-  saturation: 0.2819537327159196
-  rhythmicContrast: 0.21869528200477362
-purpose: []
+typography_spectrum: 0.5332975
+layout_spectrum: 1
