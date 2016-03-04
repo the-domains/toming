@@ -1,5 +1,8 @@
+name: toming
+favicon: null
+layout_spectrum: 0.76962
+typography_spectrum: 0.5332975
 title: 'Thom Ming Chen '
-purpose: []
 collections:
   - index:
       path: /
@@ -12,29 +15,26 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.509667
-  brandStrength: 0.3034371
-  lightness: 1
   brandColors:
     - '#282727'
     - '#5D5452'
     - '#B3A5A3'
     - '#D8CDC7'
+  brandStrength: 0.3034371
+  lightness: 1
+  saturation: 0.509667
   rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: toming
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5332975
-layout_spectrum: 1
+purpose: []
