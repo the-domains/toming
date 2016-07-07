@@ -4,21 +4,16 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:f4e5e8e2-8f37-4735-9aba-04ee5b14af3b'
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T07:49:32.974Z'
-dateModified: '2016-03-04T07:49:15.576Z'
+datePublished: '2016-07-07T15:30:41.177Z'
+dateModified: '2016-07-07T15:30:40.381Z'
 author: []
-title: "Let the inner child flow..now wouldn't that be something"
+title: Let the inner child flow..now wouldn't that be something
 sourcePath: _posts/2016-02-16-let-the-inner-child-flownow-wouldnt-that-be-something.md
-published: true
 authors: []
-publisher:
-  name: ''
-  domain: ''
-  url: null
-  favicon: null
+publisher: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
